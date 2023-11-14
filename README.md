@@ -22,13 +22,13 @@ Ejemplo tienda de ropa:
   
 ## **2. Elementos HTML que debes incluir en el index.html**
 
-* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo <a> en el nav, <h1> en el header ... No deben quedar vacíos.
+* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo a en el nav, h1 en el header ... No deben quedar vacíos.
 * Debes incluir los enlaces a las páginas login e info en algún lugar que encaje.
 * Debe contener al menos dos elementos img.
 
 ## **3. Elementos HTML que debes incluir en el login.html**
 
-* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo <a> en el nav, <h1> en el header ... No deben quedar vacíos.
+* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo a en el nav, h1 en el header ... No deben quedar vacíos.
 * Dos formularios distintos uno para el login (inicio de sesión) y otro para el sign up (registro).
 * El login debe pedirte solo un correo electrónico y una contraseña.
 * El registro debe pedirte varios campos para rellenar con información del usuario: mínimo 6.
@@ -36,7 +36,7 @@ Ejemplo tienda de ropa:
 
 ## **3. Elementos HTML que debes incluir en el info.html**
 
-* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo <a> en el nav, <h1> en el header ... No deben quedar vacíos.
+* Estructura mediante bloques header, nav, main y footer. (aside opcional). Estos bloques deben contener alguna etiqueta HTML en su interior por ejemplo a en el nav, h1 en el header ... No deben quedar vacíos.
 * Al menos un elemento img
 * Al menos un elemento video
 
